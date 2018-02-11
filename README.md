@@ -1,2 +1,3 @@
 # typescript-in-5-minutes
-Official TypeScript in 5 minutes tutorial
+
+Official [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) tutorial
